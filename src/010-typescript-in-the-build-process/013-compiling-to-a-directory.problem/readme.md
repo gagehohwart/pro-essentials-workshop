@@ -14,3 +14,7 @@ See if you can find a way to compile the TypeScript file to a directory called `
 - Add `dist` to `.gitignore`
 
 Remember to check the [TSConfig options](https://www.typescriptlang.org/tsconfig).
+
+## Solution
+
+set an outDir in tsconfig.json
