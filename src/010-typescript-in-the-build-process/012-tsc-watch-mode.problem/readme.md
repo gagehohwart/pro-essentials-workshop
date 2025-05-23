@@ -11,3 +11,7 @@ We've now got a TypeScript file that compiles to JavaScript. But we have to run 
 See if you can find a way to run the TypeScript compiler in watch mode.
 
 Check the TypeScript [CLI Options](https://www.typescriptlang.org/docs/handbook/compiler-options.html) for help.
+
+## Solution
+
+tsc --watch in dir of changes
