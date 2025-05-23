@@ -7,3 +7,7 @@
 ## Problem
 
 Try opening the `index.html` file in your browser. You'll see that it doesn't work. Why is that?
+
+## Solution
+
+Can't run a TS file directly in html, needs to be converted to js
