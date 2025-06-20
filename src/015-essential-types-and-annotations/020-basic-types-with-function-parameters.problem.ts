@@ -1,8 +1,9 @@
-import { Expect, Equal } from "@total-typescript/helpers";
+import { Equal, Expect } from "@total-typescript/helpers";
 
 // CODE
 
-const add = (a: boolean, b: boolean) => {
+// Switch types
+const add = (a: number, b: number) => {
   return a + b;
 };
 
